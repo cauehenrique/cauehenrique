@@ -11,7 +11,7 @@ Currently focusing on freelancing with React and game development.
 
 Technologies:
 
-- **💚 Vue**
+- **🔗 Svelte**
 - **⚛️ React**
 - **🌬️ TailwindCSS**
 - **🤖 Godot Engine**
