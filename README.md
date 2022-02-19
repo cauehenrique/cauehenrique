@@ -7,8 +7,6 @@
 
 Passionate about programming since 11 years old, I started my developer journey making games and then went modern web development with React and Node.
 
-Currently focusing on freelancing with React and game development.
-
 Technologies:
 
 - **🔗 Svelte**
