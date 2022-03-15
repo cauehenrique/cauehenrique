@@ -9,9 +9,9 @@ Passionate about programming since 11 years old, I started my developer journey 
 
 Technologies:
 
-- **🔗 Svelte**
-- **⚛️ React**
+- **🔗 Svelte & SvelteKit**
+- **⚛️ React & Next.js**
 - **📁 Prisma ORM**
-- **🌬️ TailwindCSS**
+- **🌬️ TailwindCSS & Chakra UI**
 - **🤖 Godot Engine**
 - **🎮 GameMaker Studio**
