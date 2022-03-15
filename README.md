@@ -11,7 +11,7 @@ Technologies:
 
 - **🔗 Svelte**
 - **⚛️ React**
+- **📁 Prisma ORM**
 - **🌬️ TailwindCSS**
 - **🤖 Godot Engine**
 - **🎮 GameMaker Studio**
-- **⚙️ Construct**
