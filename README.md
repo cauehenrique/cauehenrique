@@ -11,7 +11,7 @@ Technologies:
 
 - **🌙 Lua**
 - **💜 LÖVE**
-- - **🤖 Godot Engine**
+- **🤖 Godot Engine**
 - **🔗 Svelte & SvelteKit**
 - **🌬️ TailwindCSS**
 
